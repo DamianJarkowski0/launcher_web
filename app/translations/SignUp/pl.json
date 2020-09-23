@@ -1,0 +1,18 @@
+{
+    "formLogin": "Login",
+    "formEmail": "Adres Email",
+    "formPassword": "Hasło",
+    "formRepeatPassword": "Powtórz hasło",
+    "formTerms": "Potwierdź warunki i politykę prywatności",
+    "formSignUp": "Zarejestruj się",
+    "formAlreadyRegistered": "Posiadasz już konto? Zaloguj się",
+    "formFieldRequired": "To pole jest wymagane",
+    "formLoginLength": "Hasło musi zawierać minimum 8 znaków",
+    "formEmailError": "To nie jest prawidłowy adres email",
+    "formPasswordLength": "Login musi zawierać minimum 4 znaki",
+    "formPasswordNotEqual": "Hasła nie są takie same",
+    "EMAIL_EXIST": "Email jest już w użytku",
+    "USER_EXIST": "Użytkownik już ustnieje",
+    "userRegistered": "Użytkownik zarejestrowany prawidłowo. Wsprawdź email w celu potwierdzenia konta.",
+    "TIMEDOUT": "Połączenie przerwane!"
+}

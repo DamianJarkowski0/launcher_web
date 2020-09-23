@@ -1,0 +1,14 @@
+{
+    "ENV": "PROD",
+    "PROTOCOL": "http",
+    "IP": "localhost",
+    "PORT": "30091",
+    "DOMAIN": "localhost",
+    "RECAPTCHAKEY": "",
+    "AUTH_PROTOCOL": "http",
+    "AUTH_IP": "localhost:30090",
+    "SERVER_PROTOCOL": "http",
+    "SERVER_IP": "localhost:30092",
+    "SSL_KEY": "key.pem",
+    "SSL_CERT": "cert.pem"
+}

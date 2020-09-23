@@ -1,0 +1,20 @@
+{
+    "LoginOrPasswordNotFound": "Login/Password not found!",
+    "LoginOrTokenNotFound": "Login/Token not found",
+    "NoFoundValidObject": "Something goes wrong",
+    "IncorrectPassword": "Incorrect Password",
+    "AuthorizationError": "Problem with Authorization",
+    "SessionNotFound": "Session not found",
+    "SessionExpired": "Session expired",
+    "UserNotFound": "User not exist",
+    "login": "Login In",
+    "signin": "Sign IN",
+    "formLogin": "Login",
+    "formPassword": "Password",
+    "formRemember": "Remember",
+    "formLoginError1": "Login is required",
+    "formLoginError2": "Login cannot contain special char",
+    "formPasswordError": "Password is required",
+    "required": "This field is required",
+    "TIMEDOUT": "Connection timed out!"
+}

@@ -1,0 +1,23 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+doc
+log
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+
+# Logs
+yarn-error.log
+
+# Files
+/config/local.json
+/package-lock.json
+/private.key
+/key.pem
+/cert.pem
+

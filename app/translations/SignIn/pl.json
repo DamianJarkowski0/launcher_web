@@ -1,0 +1,20 @@
+{
+    "LoginOrPasswordNotFound": "Podano nieprawidłowe dane!",
+    "LoginOrTokenNotFound": "Login/Token nie istnieje",
+    "NoFoundValidObject": "Ups... Coś poszło nie tak",
+    "IncorrectPassword": "Nieprawidłowe hasło",
+    "AuthorizationError": "Problem z uwierzytelnieniem",
+    "SessionNotFound": "Sesja nie istnieje",
+    "SessionExpired": "Sesja wygasła",
+    "UserNotFound": "Użytkownik nie istnieje",
+    "login": "Zaloguj",
+    "signin": "Zaloguj się",
+    "formLogin": "Login",
+    "formPassword": "Hasło",
+    "formRemember": "Zapamiętaj",
+    "formLoginError1": "Login jest wymagany",
+    "formLoginError2": "Login nie moze zawierać znaków specjalnych",
+    "formPasswordError": "Hasło jest wymagane",
+    "required": "To pole jest wymagane",
+    "TIMEDOUT": "Przerwano połączenie!"
+}

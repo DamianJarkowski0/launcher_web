@@ -1,0 +1,12 @@
+{
+    "AUTHORIZATION_FAILED" : "Authorization failed",
+    "NOPERMISSION" : "Insufficient permissions",
+    "USERNOTFOUND" : "User not exist",
+    "EXIST" : "exist",
+    "TYPENOTFOUND" : "Type not found",
+    "INVALIDOBJECT" : "Invalid object",
+    "NOTFOUND" : "not found",
+    "PERMISSIONNOTFOUND" : "Permission does not exist",
+    "GROUPNOTFOUND" : "Group not exist",
+    "GROUPNOTUPDATED" : "Group was not updated"
+}

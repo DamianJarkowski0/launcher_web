@@ -1,0 +1,18 @@
+{
+    "formLogin": "Login",
+    "formEmail": "Email Address",
+    "formPassword": "Password",
+    "formRepeatPassword": "Repeat Password",
+    "formTerms": "Confirm terms and privacy policy",
+    "formSignUp": "SING UP",
+    "formAlreadyRegistered": "Already have an account? Sign in",
+    "formFieldRequired": "This field is required",
+    "formLoginLength": "Login require at least 5 character",
+    "formEmailError": "This is not email format",
+    "formPasswordLength": "Passwords require at least 8 character",
+    "formPasswordNotEqual": "Passwords are not the same",
+    "EMAIL_EXIST": "Email already exist",
+    "USER_EXIST": "User already exist",
+    "userRegistered": "User registered correctly. Please check your email and confirm your account",
+    "TIMEDOUT": "Connection timed out!"
+}

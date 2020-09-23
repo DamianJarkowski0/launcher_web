@@ -1,0 +1,12 @@
+{
+    "AUTHORIZATION_FAILED" : "Błąd uwierzytelniania",
+    "NOPERMISSION" : "Brak uprawnień",
+    "USERNOTFOUND" : "Użytkownik nie istnieje",
+    "EXIST" : "już istnieje",
+    "TYPENOTFOUND" : "Type nie istnieje",
+    "INVALIDOBJECT" : "Nieprawidlowy obiekt",
+    "NOTFOUND" : "nie znaleziono",
+    "PERMISSIONNOTFOUND" : "Uprawnienie nie istnieje",
+    "GROUPNOTFOUND" : "Grupa nie istnieje",
+    "GROUPNOTUPDATED" : "Grupa nie została zaktualizowana"
+}
